@@ -4,7 +4,7 @@ Output output/rebase.webm
 Require jjui
 Require jj
 
-Set Theme nord
+Set Theme Dracula
 Set Padding 0
 Set FontSize 20
 Set Width 1000
