@@ -11,6 +11,7 @@ Set Width 1000
 Set Height 600
 Set Framerate 24
 Set WindowBarSize 0
+Env "EDITOR" "vim"
 
 Hide
 Type "jjui repo/" Enter
