@@ -1,5 +1,5 @@
-Output output/rebase.gif
-Output output/rebase.webm
+Output output/jjui_rebase.gif
+Output output/jjui_rebase.webm
 
 Require jjui
 Require jj
@@ -19,6 +19,9 @@ Show
 Sleep 0.5s
 
 Type@1.5s "jjrBkka"
+Enter
+Sleep 2s
+Type@1s "jrsjjj"
 Enter
 Sleep 2s
 Hide
