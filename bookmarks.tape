@@ -1,12 +1,12 @@
 Output output/jjui_bookmarks.gif
-Output output/jjui_bookmarks.webm
+#Output output/jjui_bookmarks_v2.webm
 
 Require jjui
 Require jj
 
 Set Theme Dracula
 Set Padding 0
-Set FontSize 20
+Set FontSize 16
 Set Width 1000
 Set Height 600
 Set Framerate 24
@@ -18,23 +18,29 @@ Wait /normal/
 Show
 Sleep 0.5s
 
-Type@1.5s "bm"
+Type "b"
+Sleep 1s
+Type "m"
 Sleep 1s
 Enter
 Wait /normal/
 Sleep 2s
 
-Type@1s "jb"
+Type@1s "j"
 Sleep 1s
-Type "s"
+Type "bm"
+Sleep 2s
+Enter
+Sleep 1s
+Type "B"
 Sleep 1s
 Type "simplify" Enter
 Wait /normal/
 Sleep 2s
 
-Type "jb"
+Type "j"
 Sleep 1s
-Type "d"
+Type "bd"
 Sleep 1s
 Enter
 Wait /normal/
