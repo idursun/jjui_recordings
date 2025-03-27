@@ -13,7 +13,7 @@ Set Framerate 12
 Set WindowBarSize 0
 
 Hide
-Type "jjui repo/" Enter
+Type "./init.sh && jjui repo/" Enter
 Wait /normal/
 Show
 Sleep 0.5s
