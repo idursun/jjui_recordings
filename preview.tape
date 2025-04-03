@@ -1,5 +1,5 @@
 Output output/jjui_preview.gif
-Output output/jjui_preview.webm
+#Output output/jjui_preview.webm
 
 Require jjui
 Require jj
@@ -25,16 +25,15 @@ Sleep 1s
 Type@0.1s "kkk"
 Sleep 1s
 
-Tab
+Type "l"
+Sleep 1s
+Type "j"
 Sleep 1s
 
-Ctrl+D
-Sleep 1s
-Type "kkk"
-Sleep 1s
+Escape
+Type "o"
+Sleep 2s
 
-Tab
-Sleep 1s
 Type "p"
 Hide
 Type "q"
