@@ -1,5 +1,5 @@
 Output output/jjui_squash.gif
-Output output/jjui_squash.webm
+#Output output/jjui_squash.webm
 
 Require jjui
 Require jj

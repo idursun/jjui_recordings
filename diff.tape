@@ -1,5 +1,5 @@
 Output output/jjui_diff.gif
-Output output/jjui_diff.webm
+#Output output/jjui_diff.webm
 
 Require jjui
 Require jj

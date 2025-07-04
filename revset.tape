@@ -1,5 +1,5 @@
 Output output/jjui_revset.gif
-Output output/jjui_revset.webm
+#Output output/jjui_revset.webm
 
 Require jjui
 Require jj

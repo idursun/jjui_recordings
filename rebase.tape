@@ -1,5 +1,5 @@
 Output output/jjui_rebase.gif
-Output output/jjui_rebase.webm
+#Output output/jjui_rebase.webm
 
 Require jjui
 Require jj
