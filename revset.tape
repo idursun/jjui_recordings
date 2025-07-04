@@ -21,6 +21,8 @@ Sleep 0.5s
 Type@0.2s "Lauth"
 Sleep 1s
 Tab
+Sleep 0.5s
+Type '('
 Sleep 1s
 Type '"ibrahim")' Enter
 Sleep 1s
@@ -31,11 +33,13 @@ Type "anc"
 Sleep 1s
 Tab
 Sleep 1s
+Type '('
+Sleep 1s
 Type "visible"
 Sleep 1s
 Tab
 Sleep 1s
-Type ", 2)" Enter
+Type "(), 2)" Enter
 
 Sleep 2s
 Hide
