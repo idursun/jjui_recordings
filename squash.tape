@@ -19,11 +19,12 @@ Wait /normal/
 Show
 Sleep 0.5s
 
-Type@0.5s "j"
+Type@0.5s "jj"
 Sleep 0.5s
 Type "S"
-Type@0.8s "jk" Enter
 Sleep 2s
+Type@2s "eiie"
+Enter
 Type "dG"
 Sleep 1s
 Type@1s "i"
