@@ -18,28 +18,18 @@ Wait /normal/
 Show
 Sleep 0.5s
 
-Type@0.2s "Lauth"
-Sleep 1s
-Tab
-Sleep 0.5s
-Type '('
-Sleep 1s
-Type '"ibrahim")' Enter
-Sleep 1s
-
-Type "L"
-Sleep 1s
-Type "anc"
+Type@0.2s "Lmin"
 Sleep 1s
 Tab
 Sleep 1s
-Type '('
+Type ' & anc'
+Tab
 Sleep 1s
-Type "visible"
+Type "(visible"
 Sleep 1s
 Tab
 Sleep 1s
-Type "(), 2)" Enter
+Type ", 2)" Enter
 
 Sleep 2s
 Hide
