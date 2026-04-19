@@ -14,7 +14,7 @@ Set WindowBarSize 0
 
 Hide
 Type "./init.sh && jjui repo/" Enter
-Wait /normal/
+Wait /revisions/
 Show
 
 Sleep 1s

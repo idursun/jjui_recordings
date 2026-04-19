@@ -14,7 +14,7 @@ Set WindowBarSize 0
 
 Hide
 Type "./init.sh && jjui repo/" Enter
-Wait /normal/
+Wait /revisions/
 Show
 Sleep 0.5s
 
@@ -23,7 +23,7 @@ Sleep 1s
 Type "m"
 Sleep 1s
 Enter
-Wait /normal/
+Wait /revisions/
 Sleep 2s
 
 Type@1s "j"
@@ -35,7 +35,7 @@ Sleep 1s
 Type "B"
 Sleep 1s
 Type "simplify" Enter
-Wait /normal/
+Wait /revisions/
 Sleep 2s
 
 Type "j"
@@ -43,7 +43,7 @@ Sleep 1s
 Type "bd"
 Sleep 1s
 Enter
-Wait /normal/
+Wait /revisions/
 Sleep 2s
 
 Hide

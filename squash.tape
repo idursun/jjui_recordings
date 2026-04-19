@@ -15,7 +15,7 @@ Env "EDITOR" "vim"
 
 Hide
 Type "./init.sh && jjui repo/" Enter
-Wait /normal/
+Wait /revisions/
 Show
 Sleep 0.5s
 
@@ -33,7 +33,7 @@ Sleep 100ms
 Ctrl+C
 Sleep 1s
 Type "ZZ"
-Wait /normal/
+Wait /revisions/
 Sleep 2s
 Hide
 Type "q"

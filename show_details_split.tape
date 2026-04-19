@@ -14,7 +14,7 @@ Set WindowBarSize 0
 
 Hide
 Type "./init.sh && jjui repo/" Enter
-Wait /normal/
+Wait /revisions/
 Show
 
 Sleep 1s
@@ -35,7 +35,7 @@ Type "jCadd main files"
 Sleep 1s
 Escape
 Type "ZZ"
-Wait /normal/
+Wait /revisions/
 Sleep 2s
 Type "q"
 
