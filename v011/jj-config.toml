@@ -1,0 +1,10 @@
+[user]
+name = "Demo User"
+email = "demo@example.com"
+
+[ui]
+editor = "vim"
+paginate = "never"
+
+[git]
+private-commits = "none()"

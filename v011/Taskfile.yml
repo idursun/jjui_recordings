@@ -1,0 +1,16 @@
+version: '3'
+
+tasks:
+  default:
+    desc: Record every tape, one at a time since each rebuilds ~/demo
+    cmds:
+      - for: { var: TAPES }
+        cmd: vhs {{.ITEM}}
+    vars:
+      TAPES:
+        sh: ls *.tape
+
+  record:
+    desc: Record one tape, e.g. task record -- conflict
+    cmds:
+      - vhs {{.CLI_ARGS}}.tape
